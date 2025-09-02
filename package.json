@@ -1,0 +1,9 @@
+{
+  "name": "liblibai-signature-service",
+  "version": "1.0.0",
+  "description": "LiblibAI API signature service for FastGPT",
+  "main": "api/signature.js",
+  "engines": {
+    "node": "18.x"
+  }
+}
